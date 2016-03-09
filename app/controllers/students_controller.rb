@@ -1,4 +1,5 @@
 class StudentsController < ApplicationController
+  
   before_action :set_student, only: [:show, :edit, :update, :destroy]
   before_action :logged_in?
   before_action :logged_in_as_teacher?
@@ -58,6 +59,6 @@ class StudentsController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def student_params
-      params.require(:student).permit(:name, :email, :password_digest, :teacher_id)
+      params.require(:student).permit(:name, :email, :password, :teacher_id)
     end
 end
