@@ -21,4 +21,6 @@ course of the assignment I end up watching the class video for review.
      I ended up spending about 12 hours on the project and didn't complete the
 assignment.  I got side-tracked on routing and authentication problems involving
 the radio button and ended up running out of time.  I feel like I could have benefitted
-from doing a review of the lessons before I dove head first into the assignment. 
+from doing a review of the lessons before I dove head first into the assignment.
+Also i realize that I did a terrible job with committing.  I got so into the flow
+of work that I forgot to commit at several points. 
